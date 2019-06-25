@@ -1,2 +1,2 @@
 # scraperGazette
-A web that uses Express, Handlebars, Moongose and Cheerios that scrapes news from another news site.
+A web that uses Express, Handlebars, Moongose and Cheerio that scrapes news from another news site.

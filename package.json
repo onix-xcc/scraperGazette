@@ -1,7 +1,7 @@
 {
   "name": "scrapergazette",
   "version": "1.0.0",
-  "description": "A web that uses Express, Handlebars, Moongose and Cheerios that scrapes news from another news site.",
+  "description": "A web that uses Express, Handlebars, Moongose and Cheerio that scrapes news from another news site.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
