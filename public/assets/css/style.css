@@ -1,0 +1,40 @@
+.jumbotron {
+
+  background-image: url("../images/paperboyWallpaper.jpg");
+  background-size: contain;
+}
+
+.caption {
+  color: azure;
+}
+
+.navbar-brand, .topPart, h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 70px;
+}
+
+textarea {
+  width: 435px;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  margin-top: 10px !important;
+  border: 1px solid rgba(0,0,0,0.125) !important;
+}
+
+.comments {
+  color: #fff;
+  background-color: rgb(96, 171, 241) !important;
+}
+
+.btn {
+  margin-left: 10px !important;
+}
+
+.navbar {
+  background-color: gray;
+}
+
+.article-link {
+  color: grey !important;
+}
+
